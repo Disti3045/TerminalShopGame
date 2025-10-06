@@ -1,4 +1,3 @@
-
 public class Shopkeeper {
 	int valutaDisponibile=100;
 	public int slotOggetti=4;
