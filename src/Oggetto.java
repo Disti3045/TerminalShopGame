@@ -1,4 +1,3 @@
-
 public class Oggetto {
 	int prezzo;
 	String nome;
