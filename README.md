@@ -139,7 +139,7 @@ Dopodiché potrai decidere:
 
 ---
 
-##Guida all'istallazione
+## Guida all'istallazione
 
 1. Aprire un nuovo progetto Java.
 2. Scaricare la cartella 'src' e sostituirla a quella presente nel nuovo progetto Java.
