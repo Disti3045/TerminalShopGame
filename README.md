@@ -2,7 +2,6 @@
 > *“La prima luce filtra tra le persiane, accendendo di riflessi dorati le bottiglie e i metalli.  
 > Le strade ancora vuote si destano piano, e una chiave gira nella serratura…”*
 
-Benvenuto nel mondo de **Il Mercante dell’Alba**, un gioco testuale di gestione e ruolo.  
 In questo gioco vestirai i panni di un **bottegaio** in una città antica e misteriosa, dove ogni giorno
 devi bilanciare **profitto, reputazione e moralità**.
 
