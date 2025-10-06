@@ -3,7 +3,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-	
+	//Test cambiamento
 	public static void main(String[] args) {
 		//Inizializzazione Giocatore
 		Shopkeeper player = new Shopkeeper();
