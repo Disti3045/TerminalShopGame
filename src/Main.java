@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 import java.util.Random;
 import java.util.Scanner;
-//test modifiche
+
 public class Main {
 	public static void main(String[] args) {
 		//Inizializzazione Giocatore
