@@ -138,3 +138,11 @@ Dopodiché potrai decidere:
 - Ricorda: **l’equilibrio tra avidità e prudenza** è la chiave per sopravvivere.
 
 ---
+
+##Guida all'istallazione
+
+1. Aprire un nuovo progetto Java.
+2. Scaricare la cartella 'src' e sostituirla a quella presente nel nuovo progetto Java.
+3. Eseguire il codice main.java e scrivere sul terminale.
+
+---
