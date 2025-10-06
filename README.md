@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84b1b19a-cc47-4d85-bfc8-a3b6ce508b7c" />
 # 🏺TerminalShopGame
 > *“La prima luce filtra tra le persiane, accendendo di riflessi dorati le bottiglie e i metalli.  
 > Le strade ancora vuote si destano piano, e una chiave gira nella serratura…”*
